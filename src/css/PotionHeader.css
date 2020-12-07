@@ -1,0 +1,35 @@
+
+header {
+    background-color: #212121;
+}
+
+header .wrapper {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+header h1 {
+    display: block;
+}
+
+header ul {
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: 1;
+}
+
+header li:last-child {
+    margin-left: auto;
+}
+
+header a {
+    text-decoration: none;
+    color: #FAFAFA;
+    padding: 20px;
+    display: block;
+}
+
+header a:hover {
+    background: #424242;
+}

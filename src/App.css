@@ -1,0 +1,19 @@
+
+html, body {
+  background: #111111;
+  color: #FAFAFA;
+  font-size: 1.4rem;
+  font-family: 'East Sea Dokdo', cursive;
+}
+
+button, input {
+  font-family: 'East Sea Dokdo', cursive;
+}
+
+.wrapper {
+  max-width: 968px;
+  width: 100%;
+  padding: 0 15px;
+  box-sizing: border-box;
+  margin: 0 auto;
+}
